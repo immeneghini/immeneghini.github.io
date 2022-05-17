@@ -1,6 +1,6 @@
 # **Welcome to my first attempt at coding in HTML5 and CSS3**
 
-## Actualy I'm Studying creat pages with HTML5 and CSS3
+## Actualy I'm Studying for creat pages with HTML5 and CSS3
 ### At the course in HTML5 and CSS3 I'm studying:
 #### Positions
 #### Lists
